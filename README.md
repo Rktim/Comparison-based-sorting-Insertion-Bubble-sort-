@@ -2,7 +2,7 @@
 
 Pseudocodes:
 
-1. #Insertion Sort:
+1. Insertion Sort:
        function insertionSort(array)
        for i in range(1, len(array)):
           key = array[i]
@@ -13,7 +13,7 @@ Pseudocodes:
         swap (array[j + 1] ,key)
         return array
 
-2. #Bubble sort
+2. Bubble sort
        function bubbleSort(array)
         n = len(array)
         for i in range(n - 1):
